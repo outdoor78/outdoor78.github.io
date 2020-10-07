@@ -19,9 +19,9 @@ a:hover { text-decoration: underline; }
 
 .site-banner { border: 0; }
 
-.site-banner-intro { max-width: 100%; min-width: 100%; background: #000 url("https://lh3.googleusercontent.com/pw/ACtC-3eIYZLwPKtlxODduMYIOu31AQG1_xElNUBoYXNAZ7XqFDHIKuxC3BFGIHCNTXm2H57eab6dtUyQLlix7X2w2-lnqttW573epNYLesMD9ZPDXJ5YOywiJlRTPRulEmN2cbPAUN9V1Pxw7kgBymMEboXI0g=s1080-no") no-repeat center; background-size: contain; max-height: 100%; min-height: 100%; height: auto; width: auto; position: fixed; opacity: 0.25; margin: auto; }
+.site-banner-intro { max-width: 100%; min-width: 100%; background: #000 url("https://lh3.googleusercontent.com/pw/ACtC-3fKXU-N8SstNHaapEkycIehG_d56gpOabTIz7zoHlVsdaFTxI-G0TgqDV4Yx5YXSGGT9o7BAhHh3DUkKf45JtqgtVrKkk57VmvVj1ZTt6uFCSX6v3kcFL7QV0oCnjMaWORU_yQBDIxleVSvPuQJlsNTqA=s1080-no") no-repeat center; background-size: contain; max-height: 100%; min-height: 100%; height: auto; width: auto; position: fixed; opacity: 0.78; margin: auto; }
 
-.site-banner-intro:hover { background: #000 url("https://lh3.googleusercontent.com/pw/ACtC-3eCb-z1uvNKlKBnR6Ix_NPDqQaQ9REY1A7sH340a2mNyCWe07W-G6r1dXp5yclJey_GdAT7yEZPa98hOpKi-Hmlp4ZO-OpTwNn8tFSDgdSfCmbsjKW7_Mvr3exIcGsWMzrR4T3jdeDwardy6_gUY0GFpw=s1080-no") no-repeat center; background-size: contain; }
+.site-banner-intro:hover { background: #000 url("https://lh3.googleusercontent.com/pw/ACtC-3fKXU-N8SstNHaapEkycIehG_d56gpOabTIz7zoHlVsdaFTxI-G0TgqDV4Yx5YXSGGT9o7BAhHh3DUkKf45JtqgtVrKkk57VmvVj1ZTt6uFCSX6v3kcFL7QV0oCnjMaWORU_yQBDIxleVSvPuQJlsNTqA=s1080-no") no-repeat center; background-size: contain; }
 
 .site-footer { background-color: #2b2b2c; text-align: right; }
 
